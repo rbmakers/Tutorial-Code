@@ -1,6 +1,5 @@
 # Tutorial-Code
 This repository is for learning to programm the rbfalcon remote controller.
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/8791b8ad-ce3c-4327-b35a-776122784b8a)">
-</picture>
+![1000009961](https://github.com/user-attachments/assets/0ee88be1-65d0-4f1d-be77-0f5f9d3c9f20)
+
 
